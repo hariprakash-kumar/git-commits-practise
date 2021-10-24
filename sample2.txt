@@ -2,4 +2,7 @@ Hi Heloo all
 
 sample 2 file 
 
+<<<<<<< HEAD
 welcome 
+=======
+>>>>>>> 3bbd483 (new branch commited)
